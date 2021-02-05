@@ -55,7 +55,7 @@
 
 **Link to resources:** 
 1. [Install Python](https://installpython3.com/windows/)
-2. [Add directory to PATH] (https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+2. [Add directory to PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
 
 
 
