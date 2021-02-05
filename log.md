@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: Wednesday February 03, 2021
+
+**Today's Progress**: Chapter 3 of Django for Beginners. Created base template, extended by home and about. Created first tests. Deployed first project to Heroku.
+
+**Key Learning**: Basics of class based views. How views call templates and urlconfigs are used to map url to a view. 
+
+**Thoughts:** Felt good. Made a lot of progress and a lot of firsts. Tired by the end.
+
+**Minutes Worked:** 94
+
+**Link to resources:** 
+1. [First deployment](http://ancient-tundra-32763.herokuapp.com/)
+2. [Python classes](https://docs.python.org/3.8/tutorial/classes.html)
+3. [Gunicorn server](https://gunicorn.org/)
+4. [100 days of code tracker](https://docs.google.com/spreadsheets/d/1GUllE5IPdZ3DudqF9BqqFuiJNOsrYVuaUskVZIXtf0o/edit#gid=0)
+5. [Django for Beginners Chapter 3](https://djangoforbeginners.com/pages-app/)
+
+
 ### Day 3: Wednesday February 03, 2021
 
 **Today's Progress**: No progress. Had to go visit girlfriend after work. 
