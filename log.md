@@ -1,7 +1,63 @@
 # 100 Days Of Code - Log
 
+### TEMPLATE Day X: Monday Month Day, 2021
 
-### Day 4: Wednesday February 03, 2021
+**Today's Progress**: 
+
+**Key Learning**: 
+
+**Thoughts:** 
+
+**Minutes Worked:** 
+
+**Link to resources:** 
+1. 
+
+
+
+### Day 8: Monday February 08, 2021
+
+**Today's Progress**: Began Blog app, chapter 5 of Django for Beginners. Configured DB, set up urls, views, and templates for home page which displays posts from DB. Added in some html and css. 
+
+**Key Learning**: Getting down the pattern of create a model, set up urls for view, which displays template. Starting to see how Django scripting can display DB info in template. Learned about foreign keys and many-to-one relationships (i.e. many blog posts to one author).
+
+**Thoughts:** Felt good. Can see a lot of applications for the underlying pattern: allow user to create db entry. Then display those. Job board, stores, etc. 
+
+**Minutes Worked:** 68
+
+**Link to resources:** 
+1. 
+
+
+
+### Day 7: Sunday February 07, 2021
+
+**Today's Progress**: Built, tested, and deployed my first database driven app. Chapter 4 of Django for Beginners. An extremely basic message board.
+
+**Key Learning**: Creating a database model, updating it with the admin panel, and displaying contents from the database on a webpage. 
+
+**Thoughts:** Very cool. Once I get the basics of creating databases and displaying their contents, that opens up a whole new world for me and a lot I can build. I understand how to use that and how to work with databases already. No-code, bubble experience actually very helpful here. Know what pulling db info to populate content is like.
+
+**Minutes Worked:** 103
+
+**Link to resources:** 
+1. [Message board deployment](https://arcane-lake-95105.herokuapp.com/)
+2. [Progress log](https://docs.google.com/spreadsheets/d/1GUllE5IPdZ3DudqF9BqqFuiJNOsrYVuaUskVZIXtf0o/edit#gid=0)
+
+
+
+### Day 5: Saturday February 06, 2021
+
+**Today's Progress**: No progress. No time for work.
+
+
+### Day 5: Friday February 05, 2021
+
+**Today's Progress**: No progress. No time for work.
+
+
+
+### Day 4: Thursday February 04, 2021
 
 **Today's Progress**: Chapter 3 of Django for Beginners. Created base template, extended by home and about. Created first tests. Deployed first project to Heroku.
 
@@ -39,9 +95,6 @@
 **Minutes Worked:** 105
 
 **Link to resources:** 
-
-
-
 
 
 
