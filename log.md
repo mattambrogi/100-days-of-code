@@ -13,7 +13,22 @@
 **Link to resources:** 
 1. 
 
+### Day 10: Tuesday February 10, 2021
 
+**Today's Progress**: Contined on blog app in chapter 5 of Django for beginners. Added individual pages for blog posts, the ability to create a post via a from, the ability to edit a post via a form, some initial tests. Up next is ability to delete, user authentication, and more tests.
+
+**Key Learning**: Learning about how models can both populate and be fed my forms. A little about absolute urls to direct users. How primary keys work in detail views. 
+
+**Thoughts:** Fun to make a lot of progress. Excited to do more. I do feel like I should take more time to understand structure and theory. For example, could barely explain any of the above. But, for now I think it makes sense to focus on just building, as the patterns will begin to come together for me. May make sense to block of a day for concept review and reading (maybe Sundays.)
+
+**Minutes Worked:** 97
+
+**Link to resources:** 
+1. 
+
+### Day 9: Tuesday February 09, 2021
+
+**Today's Progress**: No progress, mental health day.
 
 ### Day 8: Monday February 08, 2021
 
