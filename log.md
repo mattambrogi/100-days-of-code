@@ -13,6 +13,19 @@
 **Link to resources:** 
 1. 
 
+### TEMPLATE Day 15: Monday February 15, 2021
+
+**Today's Progress**: Added Heroku config and deployed blog app, concluding the first major project of Learn Django for Beginners.
+
+**Key Learning**: Some notes on staticfiles and the steps required for deployment. 
+
+**Thoughts:** I should read up more to understand static files. I should also put together a check list for each: 1. creating a project 2. creating each new view, template, url combo 3. deployment
+
+**Minutes Worked:** 
+
+**Link to resources:** 
+1. 1. [Blog deployement](http://blog-ydg.herokuapp.com/)
+
 
 ### Day 14: Sunday February 14, 2021
 
@@ -156,18 +169,6 @@
 
 
 
-
-
-
-
-### (Example )
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: 
-1. [Calculator App](http://www.example.com)
 
 
 
