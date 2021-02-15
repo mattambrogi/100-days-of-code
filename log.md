@@ -13,7 +13,36 @@
 **Link to resources:** 
 1. 
 
-### Day 10: Tuesday February 10, 2021
+
+### Day 14: Sunday February 14, 2021
+
+**Today's Progress**: None. On vacation.
+
+
+### Day 13: Saturday February 13, 2021
+
+**Today's Progress**: None. On vacation.
+
+
+### Day 10: Friday February 12, 2021
+
+**Today's Progress**: Finished chapter 7 and blog app from Django for Beginners. Added ability to delete posts. Added user accounts, log in, log out, and sign up. 
+
+**Key Learning**: The basics of user models.
+
+**Thoughts:** Super exciting to finish this first project. So cool how easy it was to implement user accounts. If I was to work on this more, I would display the author next to each post, move the log in / log out for improved UI, and add controls so that users can only edit their own posts. For now, I'm just going to keep cranking on to the last project of this book because I think it will cover a lot of that. 
+
+**Minutes Worked:** 60
+
+
+
+
+### Day 11: Thursday February 11, 2021
+
+**Today's Progress**: None. Preparing for weekend trip.
+
+
+### Day 10: Wednesday February 10, 2021
 
 **Today's Progress**: Contined on blog app in chapter 5 of Django for beginners. Added individual pages for blog posts, the ability to create a post via a from, the ability to edit a post via a form, some initial tests. Up next is ability to delete, user authentication, and more tests.
 
