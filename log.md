@@ -11,7 +11,22 @@
 **Minutes Worked:** 
 
 **Link to resources:** 
-1. 
+
+
+### TEMPLATE Day 16: Tuesday February 16, 2021
+
+**Today's Progress**: Began last project of Django for Beginners - Newspaper App. Built user model and created templates for base, home, login, signup
+
+**Key Learning**: Solidying process for starting up a new project. Directories, installing django, creating project and first apps, setting up user model, creating inital templates, views, urls.
+
+**Thoughts:** Very tired tonight. Feeling sloppy. Will come back ready to add in views and urls for first templates tomorrow.
+
+**Minutes Worked:** 60
+
+**Link to resources:** 
+
+
+
 
 ### TEMPLATE Day 15: Monday February 15, 2021
 
@@ -21,7 +36,7 @@
 
 **Thoughts:** I should read up more to understand static files. I should also put together a check list for each: 1. creating a project 2. creating each new view, template, url combo 3. deployment
 
-**Minutes Worked:** 
+**Minutes Worked:** 30
 
 **Link to resources:** 
 1. 1. [Blog deployement](http://blog-ydg.herokuapp.com/)
