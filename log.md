@@ -12,8 +12,22 @@
 
 **Link to resources:** 
 
+### Day 17: Wednesday February 17, 2021
 
-### TEMPLATE Day 16: Tuesday February 16, 2021
+**Today's Progress**: Continued setup of Newspaper app. Added views and urls for pages. Created seperate pages app. Added tests. Added bootstrap and crispy forms. Next up: change password, then emai, then actual app. 
+
+**Key Learning**: Solidying url/view/template process. Seeing how to further break up project with pages app. One useful thing: if there's bootstrap magic you want to change, easiest to go to source code in github and search in search bar. There you can get an understanding of what you need to do. 
+
+**Thoughts:** Nice to see things looking decent with Bootstrap :). Took some time to understand tests. 
+
+**Minutes Worked:** 75
+
+**Link to resources:** 
+1. [Django Source Code](https://github.com/django/django)
+2. [Example of finding helper text in source code (150 characters)](https://github.com/django/django/blob/7af8f4127397279d19ef7c7899e93018274e2f9b/django/contrib/auth/models.py)
+
+
+### Day 16: Tuesday February 16, 2021
 
 **Today's Progress**: Began last project of Django for Beginners - Newspaper App. Built user model and created templates for base, home, login, signup
 
@@ -28,7 +42,7 @@
 
 
 
-### TEMPLATE Day 15: Monday February 15, 2021
+### Day 15: Monday February 15, 2021
 
 **Today's Progress**: Added Heroku config and deployed blog app, concluding the first major project of Learn Django for Beginners.
 
@@ -39,7 +53,7 @@
 **Minutes Worked:** 30
 
 **Link to resources:** 
-1. 1. [Blog deployement](http://blog-ydg.herokuapp.com/)
+1. [Blog deployement](http://blog-ydg.herokuapp.com/)
 
 
 ### Day 14: Sunday February 14, 2021
