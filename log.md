@@ -12,6 +12,18 @@
 
 **Link to resources:** 
 
+### Day 18: Thursday February 18, 2021
+
+**Today's Progress**: Continued setup of Newspaper app. Added password change and password reset capabilities.  
+
+**Key Learning**: How much Django offers out of the box.
+
+**Thoughts:** Django is phenomenal here. Basically everything exists out of the box. Just a matter of customizing templates.
+
+**Minutes Worked:** 41
+
+**Link to resources:** 
+
 ### Day 17: Wednesday February 17, 2021
 
 **Today's Progress**: Continued setup of Newspaper app. Added views and urls for pages. Created seperate pages app. Added tests. Added bootstrap and crispy forms. Next up: change password, then emai, then actual app. 
