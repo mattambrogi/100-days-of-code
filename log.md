@@ -12,6 +12,26 @@
 
 **Link to resources:** 
 
+
+
+### Day 20: Saturday February 20, 2021
+
+**Today's Progress**:  Continued Newspaper app. Spend 30 minutes trying to figure out email, then decided to move on. Not core to app. Just need to create a different email account via my actual domain for it to work. Will do later. Back to outputting email to console. Began on core functionality by creating articles app and Article model. Tested in admin. 
+
+**Key Learning**: Editing the email template is a good example of finding and over-writing Django source code.
+
+**Thoughts:** Excited to get on with progress on the app itself.
+
+**Minutes Worked:** 60
+
+**Link to resources:** 
+
+
+### Day 19: Friday February 19, 2021
+
+**Today's Progress**: No progress, didn't code.
+
+
 ### Day 18: Thursday February 18, 2021
 
 **Today's Progress**: Continued setup of Newspaper app. Added password change and password reset capabilities.  
@@ -20,7 +40,7 @@
 
 **Thoughts:** Django is phenomenal here. Basically everything exists out of the box. Just a matter of customizing templates.
 
-**Minutes Worked:** 41
+**Minutes Worked:** 62
 
 **Link to resources:** 
 
