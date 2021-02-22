@@ -13,6 +13,17 @@
 **Link to resources:** 
 
 
+### Day 21: Sunday February 21, 2021
+
+**Today's Progress**:  Added article list. For article edit, delete, and detail, I just added the urls and views. Need to do templates tomorrow.
+
+**Key Learning**: Don't start too late if you're already tired! If you have one thing you want to get done in a day, do it as early as possible.
+
+**Thoughts:** 
+
+**Minutes Worked:** 30
+
+**Link to resources:** 
 
 ### Day 20: Saturday February 20, 2021
 
