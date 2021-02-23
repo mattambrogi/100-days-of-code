@@ -13,6 +13,19 @@
 **Link to resources:** 
 
 
+### Day 22: Monday February 22, 2021
+
+**Today's Progress**:  Added templates for detail, edit, create, delete. Restyled landing page. Changed create page to automatically store author as current user. Added first login required mixin for create page which has dependency on being logged in. Will continue with authorizations tomorrow.
+
+**Key Learning**: First time with mixins - looking forward to exploring more.
+
+**Thoughts:** Crazy how much stuff Django has built it. For login required mixin, just add a couple arguments to view and will redirect to login if user tries to view and not logged in.
+
+**Minutes Worked:** 62
+
+**Link to resources:** 
+
+
 ### Day 21: Sunday February 21, 2021
 
 **Today's Progress**:  Added article list. For article edit, delete, and detail, I just added the urls and views. Need to do templates tomorrow.
