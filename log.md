@@ -13,6 +13,19 @@
 **Link to resources:** 
 
 
+### Day 23: Tuesday February 23, 2021
+
+**Today's Progress**: Newspaper app. Adeed access restrictions so can only view all functionality if logged in and can only edit/delete articles if user is the author. Created comments model which has many-to-one relationship with articles. Added to admin and customized view. Next up is to display in article list UI. Should be able to finish that tomorrow. That's end of functionality in this book. Then there's a few things not covered here that I'd like to add: only see edit/delete option if logged in, link to article detail from article list, ability to add comment in article detail.
+
+**Key Learning**: Began learning about how foreign keys work!
+
+**Thoughts:** 
+
+**Minutes Worked:** 60
+
+**Link to resources:** 
+
+
 ### Day 22: Monday February 22, 2021
 
 **Today's Progress**:  Added templates for detail, edit, create, delete. Restyled landing page. Changed create page to automatically store author as current user. Added first login required mixin for create page which has dependency on being logged in. Will continue with authorizations tomorrow.
