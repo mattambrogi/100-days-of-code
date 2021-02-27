@@ -13,6 +13,48 @@
 **Link to resources:** 
 
 
+
+### Day 27: Saturday February 27, 2021
+
+**Today's Progress**: Figured out how to add comments from within detail view.
+
+**Key Learning**: How to create a form for model B (comment) within a view that is driven by model A (article) 
+
+**Thoughts:** 
+
+**Minutes Worked:** 50
+
+**Link to resources:** 
+1. [How to add comments section](https://dev.to/radualexandrub/how-to-create-a-comment-section-for-your-django-blog-3egp)
+2. [Adding Extra content to class based views: maybe a better approach to do within view](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/#adding-extra-context)
+3. [Basic Forms - django docs](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-editing/)
+4. [Good stack exchange post on this](https://stackoverflow.com/questions/45659986/django-implementing-a-form-within-a-generic-detailview)
+
+
+
+### Day 26: Friday February 26, 2021
+
+**Today's Progress**: No progress, didn't code.
+
+
+### Day 25: Thursday February 25, 2021
+
+**Today's Progress**: No progress, didn't code.
+
+
+### Day 24: Wednesday February 24, 2021
+
+**Today's Progress**: Added display of comments on list and detail view. End of Book-guided content. Made it so that you only see the option to edit in list and detail view if you are the correct user. Began to figure out how to write comments within detail view.
+
+**Key Learning**: 
+
+**Thoughts:** 
+
+**Minutes Worked:** 84
+
+**Link to resources:** 
+
+
 ### Day 23: Tuesday February 23, 2021
 
 **Today's Progress**: Newspaper app. Adeed access restrictions so can only view all functionality if logged in and can only edit/delete articles if user is the author. Created comments model which has many-to-one relationship with articles. Added to admin and customized view. Next up is to display in article list UI. Should be able to finish that tomorrow. That's end of functionality in this book. Then there's a few things not covered here that I'd like to add: only see edit/delete option if logged in, link to article detail from article list, ability to add comment in article detail.
