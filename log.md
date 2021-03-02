@@ -13,6 +13,36 @@
 **Link to resources:** 
 
 
+### Break
+
+**Will be taking a break to focus on Lenny's Product Management course**
+
+
+### Day 29: Monday March 1, 2021
+
+**Today's Progress**: Got the newspaper app deployed! Had run into some issues. They mainly centered around heroku finding my staticfiles. Couldn't quite figure the issue out. But in the end I didn't need the static files, so decided to leave them out of the deployment. 
+
+**Key Learning**: Critical to go through all pipenv installs before deployment because we're not using a requirements.txt file to explicity tell Heroku what they are. Need to do each before deployment.
+
+**Thoughts:** Deployment is still messy but I imagine with practice it will come. There is also a django-heroku package that is worth trying. Supposed to simplify deplyoment. Also, I need to learn more git. Was confused about why I had a main and master branch and how to sync them.
+
+**Minutes Worked:** 86
+
+**Link to resources:** 
+
+
+### Day 28: Sunday February 28, 2021
+
+**Today's Progress**: Starting on deployment. Set up environment variables and then ran into some issues.
+
+**Key Learning**: 
+
+**Thoughts:** 
+
+**Minutes Worked:** 60
+
+**Link to resources:** 
+
 
 ### Day 27: Saturday February 27, 2021
 
