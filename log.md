@@ -4,7 +4,8 @@
 
 ## Break
 
-**Will be taking a break to focus on Lenny's Product Management course**
+**Will be taking a break to focus on Lenny's Product Management course.**
+**Resuming March 21st**
 
 
 ### Day 29: Monday March 1, 2021
