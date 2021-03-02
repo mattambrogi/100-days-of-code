@@ -18,6 +18,7 @@
 **Minutes Worked:** 86
 
 **Link to resources:** 
+1. [Deployed News App](https://ambrogi-news.herokuapp.com/)
 
 
 ### Day 28: Sunday February 28, 2021
