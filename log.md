@@ -2,7 +2,7 @@
 
 
 
-### Break
+## Break
 
 **Will be taking a break to focus on Lenny's Product Management course**
 
