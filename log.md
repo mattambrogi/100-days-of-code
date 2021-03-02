@@ -1,16 +1,5 @@
 # 100 Days Of Code - Log
 
-### TEMPLATE Day X: Monday Month Day, 2021
-
-**Today's Progress**: 
-
-**Key Learning**: 
-
-**Thoughts:** 
-
-**Minutes Worked:** 
-
-**Link to resources:** 
 
 
 ### Break
