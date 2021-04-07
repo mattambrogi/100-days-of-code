@@ -7,7 +7,7 @@
 
 **Key Learning**: 
 
-**Thoughts:** I could overwrite the class and create a get_object that would give me the specific post in the listview
+**Thoughts:** I could overwrite the class and create a get_object that would give me the specific post in the listview. Feeling excited to get back into it. I love programming.
 
 **Minutes Worked:** 80
 
