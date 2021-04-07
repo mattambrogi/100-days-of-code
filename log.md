@@ -1,11 +1,35 @@
 # 100 Days Of Code - Log
 
 
+### Day 32: Tuesday April 6, 2021
+
+**Today's Progress**: Got back into it. Reoriented myself on social media app. Had left off with issue on creating comments within ListView (the feed page). Realized this is pretty complex. Implemented a work around. To add comment, a user can see a detail view of a post, add a comment there, and then return to the feed. I'd like to fix this in the long run. Next up is creating profiles, creating a follower / following relationship. I want to get to where a user can: see list of all users, follow another user. They will only see posts in their feed from people they follow. Their profile will show their own info and will show follower/following count.
+
+**Key Learning**: 
+
+**Thoughts:** I could overwrite the class and create a get_object that would give me the specific post in the listview
+
+**Minutes Worked:** 80
+
+**Link to resources:** 
+1. [Cool website that shows what functions a given view has available](https://ccbv.co.uk/projects/Django/3.0/django.views.generic.list/ListView/)
+
+
 
 ## Break
 
-**Will be taking a break to focus on Lenny's Product Management course.**
-**Resuming March 21st**
+**Took a one month break to focus on Lenny Rachistsky's Product Management Fundementals Course. Awesome experience. Back to it.
+** Goal is to spend minimum 7 hours a week for all of April.
+** During the break I started building a little app that has the base functionality of a social media site - a feed, profiles, friends. I'm going to pick up by finishing that. 
+
+
+### Day 31: Monday March 8, 2021
+
+**Today's Progress**: Toyed around with social media app.
+
+### Day 30: Sunday March 7, 2021
+
+**Today's Progress**: Toyed around with social media app.
 
 
 ### Day 29: Monday March 1, 2021
