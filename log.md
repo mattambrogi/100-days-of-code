@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 34: Thursday April 8, 2021
+
+**Today's Progress**: Made a bunch of progress. Fixed two issues with user profiles - links not working and info not displaying. Then added links to profiles from the feed and nav bar. Then made a user list page which shows a list of all users. You can go to their profiles from here and, soon, you will be able to follow one from here. 
+
+**Key Learning**: 
+
+**Thoughts:** Feels great to be productive. Feels like I'm getting faster and able to figure out more on my own. Did 35 minutes in the morning and 45 at night. Breaking it up is nice too. Next up is implementing follower / following relationship.
+
+**Minutes Worked:** 80
+
+
+### Day 33: Wednesday April 7, 2021
+
+**Today's Progress**: Made some fixes on the feed. Set up base infrastructure for profiles - urls, view, template. Had a few issues with links to the profile and displaying info once there. 
+
+**Key Learning**: 
+
+**Thoughts:** 
+
+**Minutes Worked:** 64
+
 
 ### Day 32: Tuesday April 6, 2021
 
