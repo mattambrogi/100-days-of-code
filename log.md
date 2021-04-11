@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 37: Sunday Aptil 11, 2021
+
+**Today's Progress**: Not a lot of progress today. Trying to implement follower / following system. I created a model which I think will work. In the admin I can add followers. I can display them on a user's profile. Next I need to figure out how I can allow a user to follow another by clicking a button on the other user's profile. I am not currently passing data to to the post method correctly. That, or, the post method is not creating a new database entry at all. I actually think it's the later. Will figure this out tomorrow. Once I get that done, will be getting close to core functionality. Then make sure users only see posts from people they follow. 
+
+**Key Learning**: More time doesn't mean more productive. 30 minutes with a sharp brain is worth far more than 2 hours when you're out of it. 
+
+**Thoughts:** 
+
+**Minutes Worked:** 120
+
+### Day 36: Saturday April 10, 2021
+
+**Today's Progress**: No work
+
+### Day 35: Friday April 9, 2021
+
+**Today's Progress**: No work
+
+
 ### Day 34: Thursday April 8, 2021
 
 **Today's Progress**: Made a bunch of progress. Fixed two issues with user profiles - links not working and info not displaying. Then added links to profiles from the feed and nav bar. Then made a user list page which shows a list of all users. You can go to their profiles from here and, soon, you will be able to follow one from here. 
