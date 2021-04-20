@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 37: Sunday Aptil 11, 2021
+### Day 45: 
+
+**Progress**: Bunch of work around followers. Put up guard rails so that you can't follow yourself or follow the same person twice. Put conditionals in UI so you see Follow vs Unfollow buttons depending on whether you follow that user or not.
+
+
+### Days 38 - 31
+
+**Progress**: Put in a bunch of hours Monday - Thursday and got a bunch done. Learned a bunch about Django. Things list conditional post requets, a lot about checking for existing entries in a model, what you can and can't do with models and querysets, how to create custom filter tags, etc. 
+
+
+### Day 37: Sunday April 11, 2021
 
 **Today's Progress**: Not a lot of progress today. Trying to implement follower / following system. I created a model which I think will work. In the admin I can add followers. I can display them on a user's profile. Next I need to figure out how I can allow a user to follow another by clicking a button on the other user's profile. I am not currently passing data to to the post method correctly. That, or, the post method is not creating a new database entry at all. I actually think it's the later. Will figure this out tomorrow. Once I get that done, will be getting close to core functionality. Then make sure users only see posts from people they follow. 
 
