@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 45: 
+### Day 46: Tuesday April 20, 2021 
+
+**Progress**: Did a bunch of little things around the UI. I added all of a user's posts to their profile. Made it so you don't see follow or unfollow button on own profile. Formatted follower / following lists. Made login required for all pages but landing. Will redirect to login. 
+
+**Key Learning**: 
+
+**Thoughts:** Don't want to spend too much time working on UI. My goal is to learn Django - want to keep doing more projects that will help with that. I think the last thing to do would be to see if I can figure out a workaround for forms in list view - not being able to use them is blocking me from allowing people to follow someone directly from user list and from adding comments in feed (which I'm not sure I care about). I'm going to dedicate one, max two days to this. Then after that I'll give myself one more day to work on UI. Then get ready for deployment and call it. Max 4 more days. 
+
+**Minutes Worked:** 113
+
+### Day 45: Monday April 19, 2021 
 
 **Progress**: Bunch of work around followers. Put up guard rails so that you can't follow yourself or follow the same person twice. Put conditionals in UI so you see Follow vs Unfollow buttons depending on whether you follow that user or not.
 
