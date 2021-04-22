@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 47: Wednesday April 21, 2021 
+
+**Progress**: Still working on Twitter-esk product. Got a shit ton of little things done. Found out how to submit form from within a list. Now can follow from user list. Submit comment from feed. Delete comment from feed. Delete comment from post detail. Reversed order of posts in profile. Edit bio. Added user passes test mixins. Can't go to update profile, post delete, or comment delete unless it's your profile or you are the author.
+
+**Key Learning**: When you are in the zone, don't let it go. Use it all up till you don't have anymore. 
+
+**Thoughts:** Feels good to get all this done. It's amazing the amount of complexity and little edge cases you need to consider when building even a simple web app like this. Just the little things that you need to remember. It's actually quite fun to juggle them all in your head. 
+
+**Minutes Worked:** 160
+
+
 ### Day 46: Tuesday April 20, 2021 
 
 **Progress**: Did a bunch of little things around the UI. I added all of a user's posts to their profile. Made it so you don't see follow or unfollow button on own profile. Formatted follower / following lists. Made login required for all pages but landing. Will redirect to login. 
