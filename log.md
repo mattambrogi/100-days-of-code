@@ -6,7 +6,7 @@
 
 **Key Learning**: When you are in the zone, don't let it go. Use it all up till you don't have anymore. 
 
-**Thoughts:** Feels good to get all this done. It's amazing the amount of complexity and little edge cases you need to consider when building even a simple web app like this. Just the little things that you need to remember. It's actually quite fun to juggle them all in your head. 
+**Thoughts:** Feels good to get all this done. It's amazing the amount of complexity and little edge cases you need to consider when building even a simple web app like this. Just the little things that you need to remember. It's actually quite fun to juggle them all in your head. I think I'm just about done with this. Going to spend one more day wrapping up little things, then deploy.
 
 **Minutes Worked:** 160
 
