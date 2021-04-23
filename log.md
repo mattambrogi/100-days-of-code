@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 48: Thursday April 22, 2021 
+
+**Progress**: Spent an hour trying to deploy and just ran into a bunch of issues and ended up having to call it quits. Everything still works locally and the code is all in github at least. Will try again Sunday. I think the app is good, ready to move on.
+
+**Key Learning**:  
+
+**Thoughts:** 
+
+**Minutes Worked:** 80
+
 ### Day 47: Wednesday April 21, 2021 
 
 **Progress**: Still working on Twitter-esk product. Got a shit ton of little things done. Found out how to submit form from within a list. Now can follow from user list. Submit comment from feed. Delete comment from feed. Delete comment from post detail. Reversed order of posts in profile. Edit bio. Added user passes test mixins. Can't go to update profile, post delete, or comment delete unless it's your profile or you are the author.
