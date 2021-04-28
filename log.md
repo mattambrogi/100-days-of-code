@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 51: Tuesday April 27, 2021 
+
+**Progress**: Started on new app. Got the groundwork laid for the django infrastructure and user accounts.
+
+**Key Learning**:  
+
+**Thoughts:**  
+
+**Minutes Worked:** 65
+
+### Day 50: Monday April 26, 2021 
+
+**Progress**: None
+
+**Key Learning**:  
+
+**Thoughts:**  
+
+**Minutes Worked:** 0
+
+
+### Day 49: Sunday April 25, 2021 
+
+**Progress**: Deployed Twitbook app!
+
+**Key Learning**:  
+
+**Thoughts:** So psyched to have deployed this. Feels great to finish another project. Always more that could be done. But took this so much further than I would have thought. Feels great to just conceputalize something, start, and make it a reality. Had to figure out a lot of challenging stuff along the way. But that's the price you pay and really, the fun of it. Always better to just go for it. If you knew how hard it would be, you might not want to start. Started thinking about next project already. Keep coming up with ideas and challenging yourself to figure out how to build them.
+
+**Minutes Worked:** 60
+
+**Link to resources:** 
+1. [Deployed app](https://ma-twitbook.herokuapp.com/)
+
+
 ### Day 48: Thursday April 22, 2021 
 
 **Progress**: Spent an hour trying to deploy and just ran into a bunch of issues and ended up having to call it quits. Everything still works locally and the code is all in github at least. Will try again Sunday. I think the app is good, ready to move on.
