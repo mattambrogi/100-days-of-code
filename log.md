@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 51: Wednesday April 28, 2021 
+
+**Progress**: A lot of the ground work in place. Created job model. Got edit, delete, create views up and running. Mixins and authorizations. My Job Board where you can see list of all your jobs. This will become the main thing. 
+
+**Key Learning**:  
+
+**Thoughts:**  
+
+**Minutes Worked:** 110
+
+
 ### Day 51: Tuesday April 27, 2021 
 
 **Progress**: Started on new app. Got the groundwork laid for the django infrastructure and user accounts.
