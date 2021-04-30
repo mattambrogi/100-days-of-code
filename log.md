@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 52: Friday April 30, 2021 
+
+**Progress**: Enabled ability for User 1 to post a job on User 2's job board. Changed a bunch of other little UI and linking things around.
+
+**Key Learning**:  
+
+**Thoughts:** Django makes it fun. Feels so good to get quick with this. Have an idea. See if your brain how to implement it across 3 files and do it. Lots of work to come. Interested most in allowing users to approve a job board on their board. Go to admin, see pending jobs, approve. 
+
+**Minutes Worked:** 60
+
 ### Day 51: Thursday April 29, 2021 
 
 **Progress**: Working on Job Board Service App. Got stuck on allowing one user to create a post on a another user's board. Fucked up the database and had to figure out how to delete it all. Basically ended up where I started. But I think I have a good idea of how to get this done now.
