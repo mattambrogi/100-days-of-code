@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 51: Thursday April 29, 2021 
+
+**Progress**: Working on Job Board Service App. Got stuck on allowing one user to create a post on a another user's board. Fucked up the database and had to figure out how to delete it all. Basically ended up where I started. But I think I have a good idea of how to get this done now.
+
+**Key Learning**:  
+
+**Thoughts:**  
+
+**Minutes Worked:** 63
+
 ### Day 51: Wednesday April 28, 2021 
 
 **Progress**: A lot of the ground work in place. Created job model. Got edit, delete, create views up and running. Mixins and authorizations. My Job Board where you can see list of all your jobs. This will become the main thing. 
