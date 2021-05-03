@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 59: Monday May 3, 2021 
+
+**Progress**: Added ability for a host to approve a job. Made a basic admin. Jobs now have boolean field Approved. Within the admin, a host can edit a job and change it to accepted. In the future will do this will click of a button.
+
+**Key Learning**:  
+
+**Thoughts:** I think next big thing is figuring out difference in experience for an employer posting a job vs a host. Should an employer have their own dashboard? If so, what does an employer see? At sign up do I capture boolean Employer or Host? Or should they be different user models? Lots of questions to iron out there. 
+
+**Note:** This and my spreadsheet were out of sync on days, bumped the day count up here to match.
+
+**Minutes Worked:** 105
+
+
 ### Day 52: Friday April 30, 2021 
 
 **Progress**: Enabled ability for User 1 to post a job on User 2's job board. Changed a bunch of other little UI and linking things around.
