@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 60: Tuesday May 4, 2021 
+
+**Progress**: Made the app dual sided. A user is now marked as a host or not. Added field into signup form. Customized how that is presented. Changed nav bar drop down to show different things depending on whether you are a host or not. Host will have host dashboard. Will make a quick MVP of this next. 
+
+**Key Learning**:  Remindeer that Django source code is super helpful. Went in there to find ability to edit help text and field name in signup.
+
+**Thoughts**: Abolutely love sitting here, programming an idea from scratch, figuring out what to build, solving the 'how' problems live as I go.
+
+**Note:** 
+
+**Minutes Worked:** 73
+
 ### Day 59: Monday May 3, 2021 
 
 **Progress**: Added ability for a host to approve a job. Made a basic admin. Jobs now have boolean field Approved. Within the admin, a host can edit a job and change it to accepted. In the future will do this will click of a button.
