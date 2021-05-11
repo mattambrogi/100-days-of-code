@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 66: Monday May 10, 2021 
+
+**Progress**: Skipped a few days of recording on here, but programmed Wednesday, Thursday, Friday, and Sunday since last time. Worked today on trying to get username in URL as opposed to primary key. Can get it to work on its own, but then messes up job board list view. Gotta move on from this soon.
+
+**Key Learning**: 
+
+**Thoughts**: 
+
+**Note:** 
+
+**Minutes Worked:** 96
+
+
 ### Day 60: Tuesday May 4, 2021 
 
 **Progress**: Made the app dual sided. A user is now marked as a host or not. Added field into signup form. Customized how that is presented. Changed nav bar drop down to show different things depending on whether you are a host or not. Host will have host dashboard. Will make a quick MVP of this next. 
