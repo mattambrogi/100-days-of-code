@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Days 67, 68, 69: Tuesday May 11 - Thursday May 13, 2021 
+
+**Progress**: Took a bunch of time to figure out how to use slugs in url. Had an issue where it was working on detail views, but not in list of all pages. Was getting 404. After testing each potential source of 404 - realized that is wasn't because the slug was invalid. There was a url routing issue. Simply changing the order of urls did the trick. Need to read into this more to understand url priority. Essentially when I tried to go to list view, it was looking for the job board detail view.
+
+**Key Learning**: 
+
+**Thoughts**: 
+
+**Note:** 
+
+**Minutes Worked:** 246
+
+
 ### Day 66: Monday May 10, 2021 
 
 **Progress**: Skipped a few days of recording on here, but programmed Wednesday, Thursday, Friday, and Sunday since last time. Worked today on trying to get username in URL as opposed to primary key. Can get it to work on its own, but then messes up job board list view. Gotta move on from this soon.
