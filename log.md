@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 73 Monday May 17, 2021
+
+**Progress**: Added rich text editing to jobs. Jobs when created and edited can have formatting. Are displayed as such in the detail. Also added slugs to both Host and Employer admin's. 
+
+**Key Learning**: 
+
+**Thoughts**: 
+
+**Note:** 
+
+**Minutes Worked:** 65
+
+**Links:** 
+1. [Video used for rich text editing guide](https://www.youtube.com/watch?v=mF5jzSXb1dc)
+2. [Ckeditor](https://pypi.org/project/django-ckeditor/)
+
+
+
 ### Day 72 Sunday May 16, 2021
 
 **Progress**: Integrated a landing page template. Looks really good. 
