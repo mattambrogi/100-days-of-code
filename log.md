@@ -2,7 +2,7 @@
 
 ### Day 73 Monday May 17, 2021
 
-**Progress**: Added rich text editing to jobs. Jobs when created and edited can have formatting. Are displayed as such in the detail. Also added slugs to both Host and Employer admin's. 
+**Progress**: Added rich text editing to jobs. Jobs when created and edited can have formatting. Are displayed as such in the detail. Also added slugs to both Host and Employer admin's. Changed card display a bit to show truncated text. 
 
 **Key Learning**: 
 
