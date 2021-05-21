@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 76 Thursday May 20, 2021
+
+**Progress**: Skipped a few days of recording here. Big thing is that I implemented an ability to count hits of both jobs and job boards. Now, as I host, I can see in my admin: how many people have viewed my job board, how many views each of my jobs has, and the total amount of views my jobs have. Pretty cool. Also added job url to Job Model - have a bit of work to handle there.
+
+**Key Learning**: 
+
+**Thoughts**: I could have wrote hitcount logic from scratch. Maybe would go back and do that some day, but this covers my needs perfectly for now. 
+
+**Note:** 
+
+**Minutes Worked:** 65 Wednesday, 37 Thursday
+
+**Links:** 
+1. [Django Hit Count Package](https://django-hitcount.readthedocs.io/en/latest/installation.html)
+
+
 ### Day 73 Monday May 17, 2021
 
 **Progress**: Added rich text editing to jobs. Jobs when created and edited can have formatting. Are displayed as such in the detail. Also added slugs to both Host and Employer admin's. Changed card display a bit to show truncated text. 
